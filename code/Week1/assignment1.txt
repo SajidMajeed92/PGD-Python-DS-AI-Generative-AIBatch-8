@@ -1,0 +1,11 @@
+===========================================
+		My Profile
+===========================================
+Name : 		Sajid Majeed
+Gender :	 Male
+Age : 		 31
+Designation : 	 Lecturer
+Organization : 	 NED
+Is_working  : 	True
+CGPA :		3.9
+===========================================	
